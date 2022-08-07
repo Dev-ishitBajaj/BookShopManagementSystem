@@ -1,0 +1,12 @@
+F:\BookShop\BOOKSHOP.exe
+F:\BookShop\BOOKSHOP.dll
+F:\BookShop\BOOKSHOP.deps.json
+F:\BookShop\BOOKSHOP.runtimeconfig.json
+F:\BookShop\BOOKSHOP.pdb
+F:\BookShop\Guna.UI2.dll
+F:\BookShop\System.Data.SqlClient.dll
+F:\BookShop\runtimes\win-arm64\native\sni.dll
+F:\BookShop\runtimes\win-x64\native\sni.dll
+F:\BookShop\runtimes\win-x86\native\sni.dll
+F:\BookShop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\BookShop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
